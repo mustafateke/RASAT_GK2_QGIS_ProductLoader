@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/TrSatImageLoader" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
